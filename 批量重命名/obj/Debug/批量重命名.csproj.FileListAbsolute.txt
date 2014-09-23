@@ -1,0 +1,10 @@
+F:\批处理\批量重命名\批量重命名\bin\Debug\批量重命名.exe
+F:\批处理\批量重命名\批量重命名\bin\Debug\批量重命名.pdb
+F:\批处理\批量重命名\批量重命名\obj\Debug\ResolveAssemblyReference.cache
+F:\批处理\批量重命名\批量重命名\obj\Debug\批量重命名.Form1.resources
+F:\批处理\批量重命名\批量重命名\obj\Debug\批量重命名.Properties.Resources.resources
+F:\批处理\批量重命名\批量重命名\obj\Debug\批量重命名.csproj.GenerateResource.Cache
+F:\批处理\批量重命名\批量重命名\obj\Debug\批量重命名.exe
+F:\批处理\批量重命名\批量重命名\obj\Debug\批量重命名.pdb
+F:\批处理\批量重命名\批量重命名\obj\Debug\批量重命名.Form2.resources
+F:\批处理\批量重命名\批量重命名\obj\Debug\批量重命名.Form3.resources
