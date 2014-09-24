@@ -1,4 +1,4 @@
 batch-names
 ===========
 
-An simple application which can batch the files name. It was written by C# in windows.
+用C#写的图形化的批量重命名工具。
